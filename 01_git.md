@@ -10,3 +10,8 @@ git help
 git help config     git config --help
 
 
+git init
+git add 01_git.md 
+git commit -m "update"
+
+
